@@ -1,0 +1,5 @@
+package com.ai.vk_chat.service;
+
+public class QnAService {
+
+}

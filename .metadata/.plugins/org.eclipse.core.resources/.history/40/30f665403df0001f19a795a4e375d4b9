@@ -1,0 +1,5 @@
+package com.ai.vk_chat.controller;
+
+public class AIController {
+
+}
